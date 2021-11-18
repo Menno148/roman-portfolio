@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'Sang Bleu OG Sans';
+	src: url('SangBleuOGSans-Regular.eot');
+	src: local('Euclid Square Bold'), local('SangBleuOGSans-Regular'),
+		url('SangBleuOGSans-Regular.eot?#iefix') format('embedded-opentype'),
+		url('SangBleuOGSans-Regular.woff2') format('woff2'),
+		url('SangBleuOGSans-Regular.woff') format('woff'),
+		url('SangBleuOGSans-Regular.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
